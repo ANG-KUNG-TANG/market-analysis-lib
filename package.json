@@ -1,0 +1,21 @@
+{
+  "name": "market-analysis-lib",
+  "version": "1.0.0",
+  "description": "This is the market analysis lib for stock and crypto",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANG-KUNG-TANG/market-analysis-lib.git"
+  },
+  "keywords": ["market", "analysis", "crypto", "stocks"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANG-KUNG-TANG/market-analysis-lib/issues"
+  },
+  "homepage": "https://github.com/ANG-KUNG-TANG/market-analysis-lib#readme"
+}
