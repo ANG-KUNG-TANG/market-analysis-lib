@@ -1,6 +1,6 @@
 // test.js
 
-import { fetchHistory, getMaxPrice, getMinPrice, getPercentageGrowth, getPriceEvaluation } from './index.js';
+import { fetchHistory, getMaxPrice, getMinPrice, getPercentageGrowth, getPriceEvaluation } from '../index.js';
 
 async function runAnalysis() {
   console.log("Fetching Bitcoin data for analysis...\n");
